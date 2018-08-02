@@ -1,0 +1,4 @@
+1) Visit edx
+2) Choose a course
+3) Start learning
+4) Get your certificate
